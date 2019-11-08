@@ -1,9 +1,9 @@
 # Ecommerce_Website
-dashboard make many Functions
-( Logo in - Log Out - Eidting Proudects - Remove Products  - Add Catagories &amp; Remove - Add Members &amp; Reomve - Make Members Active )
-Importent 
+<strong>dashboard make many Functions :</strong>
+<br>( Logo in - Log Out - Eidting Proudects - Remove Products  - Add Catagories &amp; Remove - Add Members &amp; Reomve - Make Members Active )
+<br>Importent 
 log in:
-Name :
+<br><strong>Name :</strong>
 amr
-password :
+<br><strong>password :</strong>
 123
